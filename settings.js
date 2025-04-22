@@ -57,6 +57,11 @@ global.ownernumber = [process.env.OWNER_NUMBER || '2348024322741'];
 
 global.ownername = process.env.OWNER_NAME || '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙';
 
+global.bankName
+
+global.accnumber
+
+global.bank
 
 //~~~~~~<Website and Social Links>~~~~~~~~~~\\
 global.websitex = process.env.WEBSITE_URL || "https://youtube.com/@s4salmanyt";
